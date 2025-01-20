@@ -1,5 +1,14 @@
 # Assembly Guide - Nokia 3310 to OBDLink SX Direct Adapter
 
+[📚 Documentation](INDEX.md) > Assembly Guide
+
+## Navigation
+- Previous: [Direct Connection Guide](DIRECT_CONNECTION_GUIDE.md)
+- Next: [Troubleshooting Guide](TROUBLESHOOTING.md)
+- Related: 
+  - [Circuit Diagrams](CIRCUIT_DIAGRAMS.md)
+  - [Hardware Guide](HARDWARE_GUIDE.md)
+
 ## Required Tools
 
 1. Soldering Equipment:

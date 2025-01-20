@@ -1,4 +1,13 @@
-# OBD-II Command Reference Guide
+# OBD-II Command Reference
+
+[📚 Documentation](INDEX.md) > Command Reference
+
+## Navigation
+- Previous: [Nokia Protocol](NOKIA_PROTOCOL.md)
+- Next: [Compatibility Guide](COMPATIBILITY.md)
+- Related: 
+  - [User Guide](USER_GUIDE.md)
+  - [Hardware Guide](HARDWARE_GUIDE.md)
 
 ## Common OBD-II Commands
 

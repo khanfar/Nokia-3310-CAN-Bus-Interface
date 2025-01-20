@@ -1,5 +1,14 @@
 # Direct Connection Guide - Nokia 3310 to OBDLink SX
 
+[📚 Documentation](INDEX.md) > Direct Connection Guide
+
+## Navigation
+- Previous: [Circuit Diagrams](CIRCUIT_DIAGRAMS.md)
+- Next: [Assembly Guide](ASSEMBLY_GUIDE.md)
+- Related: 
+  - [Hardware Guide](HARDWARE_GUIDE.md)
+  - [Nokia Protocol](NOKIA_PROTOCOL.md)
+
 ## Overview
 This guide explains how to create a direct connection adapter between your Nokia 3310 and OBDLink SX, allowing you to use the system without a PC.
 

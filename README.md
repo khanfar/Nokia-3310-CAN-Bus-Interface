@@ -41,6 +41,8 @@ nokia3310-canbus/
 
 ## 📚 Documentation
 
+### [Documentation Index](docs/INDEX.md)
+
 ### User Guides
 - [User Guide](docs/USER_GUIDE.md) - Getting started and basic usage
 - [Hardware Guide](docs/HARDWARE_GUIDE.md) - Hardware setup and connections
@@ -49,10 +51,10 @@ nokia3310-canbus/
 - [Compatibility Guide](docs/COMPATIBILITY.md) - Supported devices and vehicles
 - [Troubleshooting Guide](docs/TROUBLESHOOTING.md) - Common issues and solutions
 
-### Direct Connection Mode
-- [Direct Connection Guide](docs/DIRECT_CONNECTION_GUIDE.md) - Standalone adapter overview
-- [Assembly Guide](docs/ASSEMBLY_GUIDE.md) - Building the custom adapter
+### Technical Documentation
 - [Circuit Diagrams](docs/CIRCUIT_DIAGRAMS.md) - Detailed schematics
+- [Direct Connection Guide](docs/DIRECT_CONNECTION_GUIDE.md) - Standalone adapter
+- [Assembly Guide](docs/ASSEMBLY_GUIDE.md) - Building instructions
 
 ## 🛠️ Setup
 
@@ -164,6 +166,20 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 - OBDLink for the SX adapter
 - All contributors and testers
 - The car hacking community
+
+## 🔗 Related Projects
+
+### By Same Developer
+- [OBD2-PYTHON](https://github.com/khanfar/OBD2-PYTHON) - Python library for OBD-II diagnostics
+  - Pure Python implementation
+  - Supports multiple adapters
+  - Real-time data logging
+  - Compatible with this project
+
+### Recommended Tools
+- [python-obd](https://github.com/brendan-w/python-obd)
+- [pyserial](https://github.com/pyserial/pyserial)
+- [python-can](https://github.com/hardbyte/python-can)
 
 ---
 Copyright (c) 2025 Khanfar - Educational Project  
