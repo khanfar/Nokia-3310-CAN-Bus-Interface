@@ -1,0 +1,6 @@
+pyserial>=3.5
+python-obd>=0.7.1
+pyusb>=1.2.1
+python-can>=4.1.0
+colorama>=0.4.6
+tqdm>=4.65.0

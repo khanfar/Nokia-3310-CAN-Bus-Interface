@@ -1,0 +1,58 @@
+MIT License with Educational Use Notice
+
+Copyright (c) 2025 Khanfar (Nokia 3310 CAN Bus Interface Project)
+Project: https://github.com/khanfar/Nokia-3310-CAN-Bus-Interface
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, hardware designs, and associated documentation files (the "Project"),
+to deal in the Project without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Project, and to permit persons to whom the Project is
+furnished to do so, subject to the following conditions:
+
+1. Educational Purpose Notice:
+   This project is primarily intended for educational purposes. Users are encouraged
+   to learn from, modify, and experiment with the code and hardware designs in an
+   educational context.
+
+2. Attribution Requirements:
+   - You must give appropriate credit to the original author (Khanfar)
+   - Provide a link to the original project: https://github.com/khanfar/Nokia-3310-CAN-Bus-Interface
+   - Indicate if changes were made
+
+3. Safety and Liability Notice:
+   THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE
+   PROJECT.
+
+4. Vehicle Interaction Notice:
+   Users must acknowledge that interfacing with vehicle systems carries inherent
+   risks. The project authors are not responsible for any damage to vehicles or
+   property resulting from the use of this project.
+
+5. Commercial Use:
+   While commercial use is permitted under this license, users are encouraged to
+   contribute improvements back to the educational community.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Project.
+
+Additional Notices:
+
+1. Nokia 3310 is a trademark of Nokia Corporation. This project is not affiliated
+   with, endorsed by, or sponsored by Nokia Corporation.
+
+2. OBDLink SX is a trademark of OBDLink. This project is not affiliated with,
+   endorsed by, or sponsored by OBDLink.
+
+3. Any other trademarks, service marks, product names, or named features are
+   assumed to be the property of their respective owners, and are used only for
+   reference.
+
+For questions about licensing or usage, please contact the project maintainer:
+GitHub: khanfar
+Project: https://github.com/khanfar/Nokia-3310-CAN-Bus-Interface
