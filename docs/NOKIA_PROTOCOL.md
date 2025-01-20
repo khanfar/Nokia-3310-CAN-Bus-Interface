@@ -1,5 +1,14 @@
 # Nokia 3310 FBUS Protocol Documentation
 
+[📚 Documentation](INDEX.md) > Nokia Protocol
+
+## Navigation
+- Previous: [Hardware Guide](HARDWARE_GUIDE.md)
+- Next: [Command Reference](COMMAND_REFERENCE.md)
+- Related: 
+  - [Direct Connection Guide](DIRECT_CONNECTION_GUIDE.md)
+  - [Circuit Diagrams](CIRCUIT_DIAGRAMS.md)
+
 ## Overview
 
 The Nokia 3310 uses the FBUS (Fast Bus) protocol for communication. This document details the protocol implementation used in this project for interfacing with the Nokia 3310 display and keypad.
@@ -297,6 +306,13 @@ For technical questions about the FBUS protocol implementation:
 - Check project documentation
 - Submit issues on GitHub
 - Review example code
+
+---
+## Related Documentation
+- [Hardware Guide](HARDWARE_GUIDE.md) - Connection details
+- [Direct Connection Guide](DIRECT_CONNECTION_GUIDE.md) - Standalone mode
+- [Circuit Diagrams](CIRCUIT_DIAGRAMS.md) - Hardware schematics
+- [Back to Index](INDEX.md)
 
 ---
 Copyright (c) 2025 Khanfar - Educational Project  

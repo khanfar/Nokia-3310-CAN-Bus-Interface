@@ -1,5 +1,14 @@
 # Troubleshooting Guide
 
+[📚 Documentation](INDEX.md) > Troubleshooting Guide
+
+## Navigation
+- Previous: [Compatibility Guide](COMPATIBILITY.md)
+- Next: [Assembly Guide](ASSEMBLY_GUIDE.md)
+- Related: 
+  - [Hardware Guide](HARDWARE_GUIDE.md)
+  - [User Guide](USER_GUIDE.md)
+
 ## Quick Reference
 
 ### LED Status Indicators
@@ -371,6 +380,13 @@ Monthly:
 - Test Scripts
 - Logging Utilities
 - Analysis Tools
+
+---
+## Related Documentation
+- [Hardware Guide](HARDWARE_GUIDE.md) - Hardware setup
+- [User Guide](USER_GUIDE.md) - Basic usage
+- [Compatibility Guide](COMPATIBILITY.md) - Device support
+- [Back to Index](INDEX.md)
 
 ---
 Copyright (c) 2025 Khanfar - Educational Project  

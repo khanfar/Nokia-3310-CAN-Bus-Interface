@@ -1,5 +1,14 @@
 # Compatibility Guide
 
+[📚 Documentation](INDEX.md) > Compatibility Guide
+
+## Navigation
+- Previous: [Command Reference](COMMAND_REFERENCE.md)
+- Next: [Troubleshooting Guide](TROUBLESHOOTING.md)
+- Related: 
+  - [Hardware Guide](HARDWARE_GUIDE.md)
+  - [Assembly Guide](ASSEMBLY_GUIDE.md)
+
 ## Phone Compatibility
 
 ### Nokia 3310 Models
@@ -267,6 +276,13 @@ For compatibility issues:
 - Submit GitHub issues
 - Test with basic commands
 - Verify hardware setup
+
+---
+## Related Documentation
+- [Hardware Guide](HARDWARE_GUIDE.md) - Hardware requirements
+- [Assembly Guide](ASSEMBLY_GUIDE.md) - Building instructions
+- [Troubleshooting Guide](TROUBLESHOOTING.md) - Common issues
+- [Back to Index](INDEX.md)
 
 ---
 Copyright (c) 2025 Khanfar - Educational Project  

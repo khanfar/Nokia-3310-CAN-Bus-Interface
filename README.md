@@ -44,12 +44,15 @@ nokia3310-canbus/
 ### User Guides
 - [User Guide](docs/USER_GUIDE.md) - Getting started and basic usage
 - [Hardware Guide](docs/HARDWARE_GUIDE.md) - Hardware setup and connections
+- [Nokia Protocol](docs/NOKIA_PROTOCOL.md) - FBUS protocol details
 - [Command Reference](docs/COMMAND_REFERENCE.md) - OBD-II commands and usage
+- [Compatibility Guide](docs/COMPATIBILITY.md) - Supported devices and vehicles
+- [Troubleshooting Guide](docs/TROUBLESHOOTING.md) - Common issues and solutions
 
 ### Direct Connection Mode
 - [Direct Connection Guide](docs/DIRECT_CONNECTION_GUIDE.md) - Standalone adapter overview
 - [Assembly Guide](docs/ASSEMBLY_GUIDE.md) - Building the custom adapter
-- [Circuit Diagrams](hardware/schematics/CIRCUIT_DIAGRAMS.md) - Detailed schematics
+- [Circuit Diagrams](docs/CIRCUIT_DIAGRAMS.md) - Detailed schematics
 
 ## 🛠️ Setup
 
@@ -108,7 +111,7 @@ python src/tools/store_command.py --port COM3 --list
 - Nokia 3310 phone
 - Custom adapter (DIY or purchased)
 - OBDLink SX adapter
-- Components listed in [Circuit Diagrams](hardware/schematics/CIRCUIT_DIAGRAMS.md)
+- Components listed in [Circuit Diagrams](docs/CIRCUIT_DIAGRAMS.md)
 
 ## 🔐 Safety Notes
 

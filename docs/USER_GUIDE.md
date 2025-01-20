@@ -1,5 +1,14 @@
 # User Guide - Nokia 3310 CAN Bus Interface
 
+[📚 Documentation](INDEX.md) > User Guide
+
+## Navigation
+- Previous: [Project README](../README.md)
+- Next: [Hardware Guide](HARDWARE_GUIDE.md)
+- Related: 
+  - [Command Reference](COMMAND_REFERENCE.md)
+  - [Troubleshooting Guide](TROUBLESHOOTING.md)
+
 ## Overview
 
 The Nokia 3310 CAN Bus Interface allows you to use your Nokia 3310 phone as a car diagnostic tool. This guide will walk you through the setup and usage of the system.
@@ -239,7 +248,19 @@ Stay current with:
 
 ## Additional Resources
 
-- [Hardware Guide](HARDWARE_GUIDE.md)
-- [Protocol Documentation](NOKIA_PROTOCOL.md)
-- [Compatibility List](COMPATIBILITY.md)
-- [FAQ](FAQ.md)
+- [Hardware Setup Guide](HARDWARE_GUIDE.md)
+- [Nokia Protocol Documentation](NOKIA_PROTOCOL.md)
+- [Compatibility Information](COMPATIBILITY.md)
+- [Troubleshooting Guide](TROUBLESHOOTING.md)
+- [Assembly Instructions](ASSEMBLY_GUIDE.md)
+
+---
+## Related Documentation
+- [Hardware Guide](HARDWARE_GUIDE.md) - Setup and connections
+- [Command Reference](COMMAND_REFERENCE.md) - Available commands
+- [Troubleshooting Guide](TROUBLESHOOTING.md) - Common issues
+- [Back to Index](INDEX.md)
+
+---
+Copyright (c) 2025 Khanfar - Educational Project  
+https://github.com/khanfar/Nokia-3310-CAN-Bus-Interface

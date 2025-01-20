@@ -1,4 +1,13 @@
-# Hardware Setup Guide
+# Hardware Guide
+
+[📚 Documentation](INDEX.md) > Hardware Guide
+
+## Navigation
+- Previous: [User Guide](USER_GUIDE.md)
+- Next: [Assembly Guide](ASSEMBLY_GUIDE.md)
+- Related: 
+  - [Circuit Diagrams](CIRCUIT_DIAGRAMS.md)
+  - [Direct Connection Guide](DIRECT_CONNECTION_GUIDE.md)
 
 ## Required Components
 
@@ -138,7 +147,18 @@ VCC --[3.3V reg]-- 5V
 
 ## Additional Resources
 
-- [Nokia Protocol Documentation](docs/NOKIA_PROTOCOL.md)
+- [Nokia Protocol Documentation](NOKIA_PROTOCOL.md)
 - [OBDLink SX Manual](https://www.obdlink.com/support)
-- [Vehicle Compatibility List](docs/COMPATIBILITY.md)
-- [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
+- [Vehicle Compatibility List](COMPATIBILITY.md)
+- [Troubleshooting Guide](TROUBLESHOOTING.md)
+
+---
+## Related Documentation
+- [Assembly Guide](ASSEMBLY_GUIDE.md) - Building instructions
+- [Circuit Diagrams](CIRCUIT_DIAGRAMS.md) - Detailed schematics
+- [Nokia Protocol](NOKIA_PROTOCOL.md) - Protocol details
+- [Back to Index](INDEX.md)
+
+---
+Copyright (c) 2025 Khanfar - Educational Project  
+https://github.com/khanfar/Nokia-3310-CAN-Bus-Interface
