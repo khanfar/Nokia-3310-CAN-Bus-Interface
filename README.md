@@ -55,6 +55,8 @@ nokia3310-canbus/
 - [Circuit Diagrams](docs/CIRCUIT_DIAGRAMS.md) - Detailed schematics
 - [Direct Connection Guide](docs/DIRECT_CONNECTION_GUIDE.md) - Standalone adapter
 - [Assembly Guide](docs/ASSEMBLY_GUIDE.md) - Building instructions
+- [Alternative Access](docs/ALTERNATIVE_ACCESS.md) - Alternative CAN bus connection points
+- [Immobilizer Guide](docs/IMMOBILIZER.md) - Key programming procedures
 
 ## 🛠️ Setup
 
